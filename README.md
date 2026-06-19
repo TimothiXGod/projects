@@ -1,4 +1,4 @@
-# Projects
+# OverView
 
 This repository contains my programming projects and experiments as I learn web development and software engineering.
 
@@ -16,4 +16,4 @@ A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 * Restart game option
 
 
-"More projects will be adder over time."
+## More projects will be added over time.
