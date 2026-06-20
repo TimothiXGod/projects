@@ -6,7 +6,7 @@ This repository contains my programming projects and experiments as I learn web 
 
 ### Tic Tac Toe
 
-<a herf="https://timothixgod.github.io/projects/tic-tac-toe/">PLAY NOW</a>
+<a href="https://timothixgod.github.io/projects/tic-tac-toe/">🎮 PLAY NOW</a>
 
 A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
