@@ -43,7 +43,8 @@ nav ul{
 
 .boxtext{
     font-size: 8vw;
-    font-family: 'Baloo Bhsina 2', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
 }
 
 .box:hover{
