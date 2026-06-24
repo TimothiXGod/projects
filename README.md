@@ -10,12 +10,11 @@ This repository contains my programming projects and experiments as I learn web 
 
 A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
-**Features**
 
-* Two-player gameplay
-* Win detection
-* Draw detection
-* Restart game option
+### Random Password Generator
+<a href="https://github.com/TimothiXGod/projects/tree/main/random-password/">🔐 GENERATE NOW</a>
+
+A modern password generator with custom length, character options, and one-click copy.
 
 
 ## More projects will be added over time.
