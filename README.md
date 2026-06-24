@@ -12,7 +12,7 @@ A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 
 ### Random Password Generator
-<a href="https://github.com/TimothiXGod/projects/tree/main/random-password/">🔐 GENERATE NOW</a>
+<a href="https://timothixgod.github.io/projects/random-password/">🔐 GENERATE NOW</a>
 
 A modern password generator with custom length, character options, and one-click copy.
 
