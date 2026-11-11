@@ -17,4 +17,10 @@ A browser-based Tic Tac Toe game built with HTML, CSS, and JavaScript.
 A modern password generator with custom length, character options, and one-click copy.
 
 
+### Monthly Budget Tracker
+<a href="https://timothixgod.github.io/projects/monthly-budget-tracker/">💰 TRACK NOW!</a>
+
+A clean and minimal budget tracker specially for students in any currency.
+
+
 ## More projects will be added over time.
